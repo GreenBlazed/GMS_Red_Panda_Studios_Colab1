@@ -1,7 +1,6 @@
-<<<<<<< HEAD
+
 ///movement
-=======
-///move
+//move
 if keyboard_check(ord("D")){
 	hspeed_ = 3;
 } else if keyboard_check(ord("A")){
@@ -13,4 +12,4 @@ if keyboard_check_pressed(vk_escape){
 }
 
 x = hspeed_;
->>>>>>> fb0788df995431a284cee7f76b67607a9f96e527
+
