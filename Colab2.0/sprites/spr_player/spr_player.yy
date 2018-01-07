@@ -6,10 +6,17 @@
     "For3D": false,
     "HTile": false,
     "VTile": false,
+<<<<<<< HEAD
     "bbox_bottom": 0,
     "bbox_left": 0,
     "bbox_right": 0,
     "bbox_top": 0,
+=======
+    "bbox_bottom": 59,
+    "bbox_left": 7,
+    "bbox_right": 44,
+    "bbox_top": 4,
+>>>>>>> fd6d42a547555d387c713c08d30c4a4d5451e83a
     "bboxmode": 0,
     "colkind": 1,
     "coltolerance": 0,
@@ -132,7 +139,11 @@
         4287365357,
         4284159214,
         4279176094,
+<<<<<<< HEAD
         4279058848,
+=======
+        4278194483,
+>>>>>>> fd6d42a547555d387c713c08d30c4a4d5451e83a
         4278870691,
         4278231211,
         4281367321
