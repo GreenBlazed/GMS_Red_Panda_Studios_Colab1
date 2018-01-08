@@ -98,7 +98,7 @@
             "Key": "6bd946dc-b6a5-4073-a2d7-b1eb6c614c9e",
             "Value": {
                 "id": "18fd5266-fcd6-4dd9-a50b-94ac285f4a18",
-                "resourcePath": "objects\\obj_wall\\obj_wall.yy",
+                "resourcePath": "objects\\obj_solid\\obj_solid.yy",
                 "resourceType": "GMObject"
             }
         },

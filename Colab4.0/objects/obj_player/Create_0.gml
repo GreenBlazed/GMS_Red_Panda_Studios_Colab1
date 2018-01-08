@@ -1,2 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+///initiate player
+hspd_ = 0;
+vspd_ = 0;
+image_speed = .6

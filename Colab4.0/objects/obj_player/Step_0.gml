@@ -2,11 +2,13 @@
 ///movement
 //move
 if keyboard_check(ord("D")){
-	hspeed_ = 3;
+	hspd_ = 3;
 } else if keyboard_check(ord("A")){
-	hspeed_ = -3;
+	hspd_ = -3;
+} else {
+	hspd_= 0;
 }
-x += hspeed_;
+x += hspd_
 //close game
 if keyboard_check_pressed(vk_escape){
 	game_end();
