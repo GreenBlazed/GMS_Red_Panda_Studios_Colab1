@@ -1,4 +1,3 @@
 ///initiate player
-hspd_ = 0;
-vspd_ = 0;
+spd = 3;
 image_speed = .6
